@@ -1,2 +1,3 @@
 # My-first-repository-on-GitHub
-this repo is for testing AI tools
+This repo is for testing AI tools
+# Most time will be used for the Augment code test and improve
